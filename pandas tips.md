@@ -7,4 +7,8 @@
 >>> read_sql 改为 read_csv，本地读取
 >>> pd.read_csv(chunk_size=100)可大幅提高读写速度(300万条数据4分钟),但是读取的数据没法使用
 
-3. 
+3. [熟练使用交互可视化](http://ipywidgets.readthedocs.io/en/latest/examples/Using%20Interact.html)
+
+    `import ipywidgets as widgets`
+    
+4.
