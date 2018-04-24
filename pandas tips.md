@@ -19,5 +19,5 @@
  
 5. bins之后columns需要转换成object类型
 
-#matplotlib
+# matplotlib
 1. [mac下中文标签显示](http://skyrover.me/2018/02/13/matplotlib_issue_solution/)
