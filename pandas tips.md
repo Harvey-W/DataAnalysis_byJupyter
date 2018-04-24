@@ -13,6 +13,8 @@
     
 4. 行列操作
 
-    `df.loc[index]=value`行 `df[columns]=value`列 `df.apply(lambda x:x.idxmax(), axis=1)`极值行列
-   
+    `df.loc[index]=value`行  
+    `df[columns]=value`列  
+    `df.apply(lambda x:x.idxmax(), axis=1)`极值行列  
+ 
 5. bins之后columns需要转换成object类型
