@@ -18,3 +18,6 @@
     `df.apply(lambda x:x.idxmax(), axis=1)`极值行列  
  
 5. bins之后columns需要转换成object类型
+
+#matplotlib
+1. [mac下中文标签显示](http://skyrover.me/2018/02/13/matplotlib_issue_solution/)
