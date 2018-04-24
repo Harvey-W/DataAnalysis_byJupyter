@@ -11,4 +11,6 @@
 
     `import ipywidgets as widgets`
     
-4.
+4.添加新行/列  
+
+   `df.loc[index]=value`行 `df[columns]=value`列
