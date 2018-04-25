@@ -21,3 +21,22 @@
 
 # matplotlib
 1. [mac下中文标签显示](http://skyrover.me/2018/02/13/matplotlib_issue_solution/)
+
+
+# mac
+1. Crontab命令
+
+    `crontab -e : 启用编辑
+     crontab -l : 查看定时任务  
+     crontab -r : 删除定时任务 
+     sudo touch /etc/crontab ：创建
+     sudo /usr/sbin/cron start ：启动 
+     sudo /usr/sbin/cron restart ：重启 
+     sudo /usr/sbin/cron stop： 停止 `  
+     
+    输入crontab -e
+    按下a键进入到编辑模式
+    输入 0 */1 * * * /home/work/start-service.sh(绝对路径）
+    同时按下ctrl+c退出编辑模式
+    按下shift+: 输入wq 退出 crontab
+    
