@@ -26,6 +26,8 @@
 
 2. [双坐标轴及xticks修改](https://segmentfault.com/a/1190000006158803)
 
+    `ax2 = df.plot(secondary_y = True)`
+
 
 # mac
 1. Crontab命令
