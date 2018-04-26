@@ -24,7 +24,7 @@
 # matplotlib
 1. [mac下中文标签显示](http://skyrover.me/2018/02/13/matplotlib_issue_solution/)
 
-2.[双坐标轴及xticks修改](https://segmentfault.com/a/1190000006158803)
+2. [双坐标轴及xticks修改](https://segmentfault.com/a/1190000006158803)
 
 
 # mac
