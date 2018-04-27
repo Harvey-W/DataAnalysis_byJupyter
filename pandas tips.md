@@ -44,3 +44,9 @@
      同时按下ctrl+c退出编辑模式
      按下shift+: 输入wq 退出 crontab `
     
+# sql
+1. 以下方法会导致全表查询：
+    - 在where中使用!=或<> 改为 between
+    - null 改为 = 0
+    - or 改为 union
+    - (not)in
