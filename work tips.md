@@ -48,7 +48,7 @@
     
 # sql
 1. 以下方法会导致全表查询：
-    - 在where中使用!=或<> 改为 between
-    - null 改为 = 0
-    - or 改为 union
-    - (not)in
+    - 在where中使用!=或<> 改为 between  
+    - null 改为 = 0  
+    - or 改为 union  
+    - (not)in  
