@@ -22,6 +22,9 @@
  
 5. bins之后columns是category类型，需要转换成object类型
 
+# numpy
+1. [多项式](https://blog.csdn.net/lubin2016/article/details/78823013)
+
 
 # matplotlib
 1. [mac下中文标签显示](http://skyrover.me/2018/02/13/matplotlib_issue_solution/)
