@@ -20,7 +20,7 @@
     `df.reindex() df.rename()` 修改行  
     
  
-5. bins之后columns是category类型，需要转换成object类型
+5. [利用glob/os.path合并多个csv文件](https://blog.csdn.net/u010129985/article/details/79177359)
 
 # numpy
 1. [多项式](https://blog.csdn.net/lubin2016/article/details/78823013)
