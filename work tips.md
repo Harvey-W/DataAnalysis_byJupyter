@@ -20,7 +20,9 @@
     `df.reindex() df.rename()` 修改行  
     
  
-5. [利用glob/os.path合并多个csv文件](https://blog.csdn.net/u010129985/article/details/79177359)
+5. [利用glob/os.path合并多个csv文件](https://blog.csdn.net/u010129985/article/details/79177359)  
+
+6. apply用于行列，applymap用于元素
 
 # numpy
 1. [多项式](https://blog.csdn.net/lubin2016/article/details/78823013)
