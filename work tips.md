@@ -26,6 +26,8 @@
 
 7. 读取txt:read_table
 
+8. 连续数据用分布概率函数，离散数据用概率密度函数
+
 # numpy
 1. [多项式](https://blog.csdn.net/lubin2016/article/details/78823013)
 
