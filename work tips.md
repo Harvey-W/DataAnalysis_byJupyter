@@ -24,6 +24,8 @@
 
 6. apply用于行列，applymap用于元素
 
+7. 读取txt:read_table
+
 # numpy
 1. [多项式](https://blog.csdn.net/lubin2016/article/details/78823013)
 
