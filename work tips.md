@@ -42,7 +42,8 @@
 # scipy
 1. [统计函数库scipy.stats](https://blog.csdn.net/pipisorry/article/details/49515215)  
 
-2. [一些情况下对数据取log的原因](http://bbs.pinggu.org/thread-3027640-1-1.html)：拟合正态 - “尖峰肥尾”
+2. [一些情况下对数据取log的原因](http://bbs.pinggu.org/thread-3027640-1-1.html)：
+    - [拟合正态 - “尖峰肥尾”](http://bbs.pinggu.org/thread-1286098-1-1.html)
 
 # mac
 1. Crontab命令
