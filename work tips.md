@@ -40,7 +40,9 @@
     `ax2 = df.plot(secondary_y = True)`
     
 # scipy
-1. [统计函数库scipy.stats](https://blog.csdn.net/pipisorry/article/details/49515215)
+1. [统计函数库scipy.stats](https://blog.csdn.net/pipisorry/article/details/49515215)  
+
+2. [一些情况下对数据取log的原因](http://bbs.pinggu.org/thread-3027640-1-1.html)
 
 # mac
 1. Crontab命令
