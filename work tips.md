@@ -30,6 +30,8 @@
 
 9. eval()函数执行字符串格式的表达式
 
+10. [EOL while scanning string literal](https://blog.csdn.net/idevcod/article/details/11635479)
+
 # numpy
 1. [多项式](https://blog.csdn.net/lubin2016/article/details/78823013)
 
