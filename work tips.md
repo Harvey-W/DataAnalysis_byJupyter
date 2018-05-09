@@ -30,7 +30,8 @@
 
 9. eval()函数执行字符串格式的表达式
 
-10. [各种parse时报错：EOL while scanning string literal](https://blog.csdn.net/idevcod/article/details/11635479)
+10. [各种parse时报错：EOL while scanning string literal](https://blog.csdn.net/idevcod/article/details/11635479)  
+
     `异常处理 - 用三引号包围错误字符串` 或 `pd.read_json可以避免parse问题`
 
 # numpy
