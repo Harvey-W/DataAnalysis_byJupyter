@@ -28,6 +28,8 @@
 
 8. 连续数据用分布概率函数，离散数据用概率密度函数
 
+9. eval()函数执行字符串格式的表达式
+
 # numpy
 1. [多项式](https://blog.csdn.net/lubin2016/article/details/78823013)
 
