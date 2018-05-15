@@ -22,7 +22,7 @@
  
 5. [利用glob/os.path合并多个csv文件](https://blog.csdn.net/u010129985/article/details/79177359)  
 
-6. apply用于行列，applymap用于元素
+6. apply用于df行列，applymap用于df元素;map用于一个函数或字典型对象
 
 7. 读取txt:read_table
 
