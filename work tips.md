@@ -14,8 +14,8 @@
     
 4. 行列操作
 
-    `df.loc[index]=value`行  
-    `df[columns]=value`列  
+    `df.loc[:,:]=value`修改行列
+    `df[columns]=value`新建列 
     `df.apply(lambda x:x.idxmax(), axis=1)`极值行列  
     `df.reindex() df.rename()` 修改行  
     
