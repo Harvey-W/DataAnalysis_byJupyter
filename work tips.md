@@ -14,10 +14,10 @@
     
 4. 行列操作
 
-    `df.loc[:,:]=value`修改行列  
-    `df[columns]=value`新列建  
-    `df.apply(lambda x:x.idxmax(), axis=1)`极值行列  
-    `df.reindex() df.rename()` 修改行  
+    `df.loc[:,:]=value`行  
+    `df[columns]=value`列  
+    `df.apply(lambda x:x.idxmax(), axis=1)`极值行列   
+    `df.reindex() df.rename()` 修改行   
     
  
 5. [利用glob/os.path合并多个csv文件](https://blog.csdn.net/u010129985/article/details/79177359)  
