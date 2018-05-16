@@ -72,3 +72,7 @@
     - null 改为 = 0  
     - or 改为 union  
     - (not)in  
+    
+2. 从sql导出的数字类字符串数据，read到pandas的时候,dtype='str'必须写，否则00123变成123  
+
+
