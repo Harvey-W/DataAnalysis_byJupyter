@@ -75,4 +75,9 @@
     
 2. 从sql导出的数字类字符串数据，read到pandas的时候,dtype='str'必须写，否则00123变成123  
 
-
+# jupyter
+1. `%run ====用来运行代码脚本`   
+    `%store ====命令可以在两个notebook文件之间传递变量`  
+    `%pwd 当前路径`
+    `函数末尾加上一个分号,作图不输出`  
+    `!cd 来切换目录; !ls用来显示当前目录内容；！pip install或者！conda install用来使用cmd下的命令操作`    
