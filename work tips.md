@@ -43,8 +43,10 @@
 
 2. [双坐标轴及xticks修改](https://segmentfault.com/a/1190000006158803)
 
-    `ax2 = df.plot(secondary_y = True)`
+    `ax2 = df.plot(secondary_y = True)`  
     
+3. plt.annotate() 数据标注  
+
 # scipy
 1. [统计函数库scipy.stats](https://blog.csdn.net/pipisorry/article/details/49515215)  
 
