@@ -14,10 +14,10 @@
     
 4. 行列操作
 
-    `df.loc[:,:]=value`行  
-    `df[columns]=value`列  
-    `df.apply(lambda x:x.idxmax(), axis=1)`极值行列   
-    `df.reindex() df.rename()` 修改行   
+    `df.loc[:,:]=value`行
+		`df[columns]=value`列
+		`df.apply(lambda x:x.idxmax(), axis=1)`极值行列
+		`df.reindex() df.rename()` 修改行   
     
  
 5. [利用glob/os.path合并多个csv文件](https://blog.csdn.net/u010129985/article/details/79177359)  
@@ -41,9 +41,10 @@
 # matplotlib
 1. [mac下中文标签显示](http://skyrover.me/2018/02/13/matplotlib_issue_solution/)
 
-2. [双坐标轴及xticks修改](https://segmentfault.com/a/1190000006158803)
-
-    `ax2 = df.plot(secondary_y = True)`  
+2. 双坐标轴及xticks修改  
+    (https://segmentfault.com/a/1190000006158803)  
+    (https://stackoverflow.com/questions/8384120/equivalent-function-for-xticks-for-an-axessubplot-object)
+ 
     
 3. plt.annotate() 数据标注  
 
