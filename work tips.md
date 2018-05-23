@@ -33,6 +33,7 @@
 10. [各种parse时报错：EOL while scanning string literal](https://blog.csdn.net/idevcod/article/details/11635479)  
 
     `异常处理 - 用三引号包围错误字符串` 或 `pd.read_json可以避免parse问题`
+11. 按值删除，先用.isin把特定值取成NaN，再stack()  
 
 # numpy
 1. [多项式](https://blog.csdn.net/lubin2016/article/details/78823013)
