@@ -35,6 +35,8 @@
     `异常处理 - 用三引号包围错误字符串` 或 `pd.read_json可以避免parse问题`
 11. 按值删除，先用.isin把特定值取成NaN，再stack()  
 
+12. excel写入增量或一表多sheet： 构造类 writer = pd.ExcelWriter（name）然后循环写入 df.to_excel(writer, sheet_name='%s' % (i))  
+
 # numpy
 1. [多项式](https://blog.csdn.net/lubin2016/article/details/78823013)
 
