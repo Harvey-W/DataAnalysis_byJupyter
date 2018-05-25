@@ -37,6 +37,8 @@
 
 12. excel写入增量或一表多sheet： 构造类 writer = pd.ExcelWriter（name）然后循环写入 df.to_excel(writer, sheet_name='%s' % (i))  
 
+13.使用.format()格式化输出更全面，可以输出set不需要像%写成(1,2,)，可以直接输出百分数，通过位置属性下标等输出。  
+
 # numpy
 1. [多项式](https://blog.csdn.net/lubin2016/article/details/78823013)
 
