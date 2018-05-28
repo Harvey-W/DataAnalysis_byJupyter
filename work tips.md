@@ -83,6 +83,8 @@
     
 2. 从sql导出的数字类字符串数据，read到pandas的时候,dtype='str'必须写，否则00123变成123  
 
+3. 按天/月/年排序，若原字段只有详细时间，转换为to_char(time, 'YYYY-MM-DD') as d group by d  
+
 # jupyter
 1. `%run ====用来运行代码脚本`   
     `%store ====命令可以在两个notebook文件之间传递变量`  
