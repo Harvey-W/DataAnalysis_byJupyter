@@ -12,12 +12,11 @@
 
     `import ipywidgets as widgets`
     
-4. 行列操作
-
-    `df.loc[:,:]=value`行
-		`df[columns]=value`列
-		`df.apply(lambda x:x.idxmax(), axis=1)`极值行列
-		`df.reindex() df.rename()` 修改行   
+4. 行列操作  
+    `df.loc[:,:]=value`行  
+    `df[columns]=value`列  
+    `df.apply(lambda x:x.idxmax(), axis=1)`极值行列  
+    `df.reindex() df.rename()` 修改行   
     
  
 5. [利用glob/os.path合并多个csv文件](https://blog.csdn.net/u010129985/article/details/79177359)  
@@ -37,7 +36,7 @@
 
 12. excel写入增量或一表多sheet： 构造类 writer = pd.ExcelWriter（name）然后循环写入 df.to_excel(writer, sheet_name='%s' % (i))  
 
-13.使用.format()[格式化输出](http://www.cnblogs.com/fat39/p/7245035.html)更全面，可以输出set不需要像%写成(1,2,)，可以直接输出百分数，通过位置属性下标等输出。  
+13. 使用.format()[格式化输出](http://www.cnblogs.com/fat39/p/7245035.html)更全面，可以输出set不需要像%写成(1,2,)，可以直接输出百分数，通过位置属性下标等输出。  
 
 # numpy
 1. [多项式](https://blog.csdn.net/lubin2016/article/details/78823013)
