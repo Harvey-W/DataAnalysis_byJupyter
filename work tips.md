@@ -61,6 +61,11 @@
 
 3. [PCA降维](https://www.jianshu.com/p/4528aaa6dc48)  (https://blog.csdn.net/baoyan2015/article/details/53742052)
 
+4. [余弦相似度](http://blog.christianperone.com/2013/09/machine-learning-cosine-similarity-for-vector-space-models-part-iii/)  
+    `from sklearn.metrics.pairwise import cosine_similarity`  
+        `cosine_similarity([[array[0],array[1]]) or cosine_similarity(df)`
+        
+
 # mac
 1. Crontab命令
     > crontab -e : 启用编辑
