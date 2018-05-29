@@ -53,11 +53,13 @@
     
 3. plt.annotate() 数据标注  
 
-# scipy
+# scipy & sklearn
 1. [统计函数库scipy.stats](https://blog.csdn.net/pipisorry/article/details/49515215)  
 
 2. [一些情况下对数据取log的原因](http://bbs.pinggu.org/thread-3027640-1-1.html)：
     - [拟合正态 - “尖峰肥尾”](http://bbs.pinggu.org/thread-1286098-1-1.html)
+
+3. [PCA降维](https://www.jianshu.com/p/4528aaa6dc48)  
 
 # mac
 1. Crontab命令
