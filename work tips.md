@@ -97,4 +97,6 @@
     `%store ====命令可以在两个notebook文件之间传递变量`  
     `%pwd 当前路径`
     `函数末尾加上一个分号,作图不输出`  
-    `!cd 来切换目录; !ls用来显示当前目录内容；！pip install或者！conda install用来使用cmd下的命令操作`    
+    `!cd 来切换目录; !ls用来显示当前目录内容；！pip install或者！conda install用来使用cmd下的命令操作`  
+    
+2. [jupyter 大礼包](https://www.jianshu.com/p/dacc6acba00b)
