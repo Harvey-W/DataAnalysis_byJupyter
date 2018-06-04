@@ -4,6 +4,7 @@
     
     `pd.date_range(start, end, freq, tz, closed)`  
     `DataFrame.resample()`
+    `拆解时间序列: date.apply(lambda date:date.year/month/day)`  
   
 2. 由于pandas和python特性，避免io读取和for循环以提高获取数据速度
      - read_sql 改为 read_csv，本地读取百万级以上的数据  
