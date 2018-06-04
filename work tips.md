@@ -1,7 +1,9 @@
 # pandas
-1. [生成时间序列](https://blog.csdn.net/you_are_my_dream/article/details/70209757)
+1. [生成时间序列](https://blog.csdn.net/you_are_my_dream/article/details/70209757)  
+    [对时间序列重新采样](https://blog.csdn.net/wangshuang1631/article/details/52314944)  
     
-    `pd.date_range(start, end, freq, tz, closed)`
+    `pd.date_range(start, end, freq, tz, closed)`  
+    `DataFrame.resample()`
   
 2. 由于pandas和python特性，避免io读取和for循环以提高获取数据速度
      - read_sql 改为 read_csv，本地读取百万级以上的数据  
