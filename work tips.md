@@ -42,6 +42,9 @@
 13. 使用.format()[格式化输出](http://www.cnblogs.com/fat39/p/7245035.html)更全面，可以输出set不需要像%写成(1,2,)，可以直接输出百分数，通过位置属性下标等输出。  
 
 14.(纯怕自己忘）.nunique() = .count() = .unique().dropna().shape\[0]
+
+15. 合并多个df：pd.concat(axis=1,0)  
+
 # numpy
 1. [多项式拟合](https://blog.csdn.net/lubin2016/article/details/78823013)
 
