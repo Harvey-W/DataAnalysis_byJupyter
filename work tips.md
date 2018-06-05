@@ -47,6 +47,9 @@
 
 15. 合并多个df：pd.concat(axis=1,0)  
 
+16. 连续读写excel:  
+    `writer = pd.ExcelWriter(filename) df = pd.to_excel(writer, sheet_name=)`  
+    
 # numpy
 1. [多项式拟合](https://blog.csdn.net/lubin2016/article/details/78823013)
 
