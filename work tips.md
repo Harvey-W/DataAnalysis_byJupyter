@@ -45,7 +45,7 @@
 14.统计非空值：.nunique() = .count() = .unique().dropna().shape\[0]  
   统计空值：.isnull().sum()  
 
-15. 合并多个df：pd.concat(axis=1,0)  
+15. 合并多个df：pd.concat([list of df],axis=1,0)  
 
 16. 连续读写excel:  
     `writer = pd.ExcelWriter(filename) df = pd.to_excel(writer, sheet_name=)`  
