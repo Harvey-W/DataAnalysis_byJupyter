@@ -77,7 +77,9 @@
 4. [余弦相似度](http://blog.christianperone.com/2013/09/machine-learning-cosine-similarity-for-vector-space-models-part-iii/)  
     `from sklearn.metrics.pairwise import cosine_similarity`  
         `cosine_similarity([[array[0],array[1]]) or cosine_similarity(df)`
-        
+
+5. 将中文数据转换为数值数据：哑变量  
+    `pd.get_dummies`
 
 # mac
 1. Crontab命令
