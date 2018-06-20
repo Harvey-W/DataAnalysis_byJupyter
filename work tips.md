@@ -58,7 +58,7 @@
 2. array扁平化和“逆扁平化"
     `series.flatten() df[:,None]`  
 
-# matplotlib
+# matplotlib&seaborn
 1. [mac下中文标签显示](http://skyrover.me/2018/02/13/matplotlib_issue_solution/)
 
 2. 双坐标轴及xticks修改  
@@ -67,6 +67,8 @@
  
     
 3. plt.annotate() 数据标注  
+
+4. [seaborn用heatmap画相关性图](http://seaborn.pydata.org/examples/many_pairwise_correlations.html#plotting-a-diagonal-correlation-matrix)  
 
 # scipy & sklearn
 1. [统计函数库scipy.stats](https://blog.csdn.net/pipisorry/article/details/49515215)  
