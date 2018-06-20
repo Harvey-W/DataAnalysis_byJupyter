@@ -53,8 +53,10 @@
 17. [df中把数据处理成字符串的方法](http://www.ppvke.com/Blog/archives/39790)
 
 # numpy
-1. [多项式拟合](https://blog.csdn.net/lubin2016/article/details/78823013)
+1. [多项式拟合](https://blog.csdn.net/lubin2016/article/details/78823013)  
 
+2. array扁平化和“逆扁平化"
+    `series.flatten() df[:,None]`  
 
 # matplotlib
 1. [mac下中文标签显示](http://skyrover.me/2018/02/13/matplotlib_issue_solution/)
