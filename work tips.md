@@ -86,6 +86,8 @@
     `pd.get_dummies`
 6. [决策树](http://www.ppvke.com/Blog/archives/44548)，将连续变量变成离散：bins  
     [决策树实例](https://blog.csdn.net/oxuzhenyi/article/details/76427704)
+    
+7. [expected 2D array, got 1D array](https://blog.csdn.net/WWWQ2386466490/article/details/79013146)  
 
 # mac
 1. Crontab命令
