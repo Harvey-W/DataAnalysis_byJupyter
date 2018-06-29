@@ -65,12 +65,14 @@
 2. 双坐标轴及xticks修改  
     (https://segmentfault.com/a/1190000006158803)  
     (https://stackoverflow.com/questions/8384120/equivalent-function-for-xticks-for-an-axessubplot-object)
- 
-    
+     
 3. plt.annotate() 数据标注  
 
 4. [seaborn用heatmap画相关性图](http://seaborn.pydata.org/examples/many_pairwise_correlations.html#plotting-a-diagonal-correlation-matrix)  
 
+5.最方便的多维可视化分析  sns.FcacetGrid().map  
+    `sns.FacetGrid(df_titanic_raw, col='Survived',row='Pclass', size=4.5).map(plt.hist, 'Age', bins=20);`  
+    
 # scipy & sklearn
 1. [统计函数库scipy.stats](https://blog.csdn.net/pipisorry/article/details/49515215)  
 
