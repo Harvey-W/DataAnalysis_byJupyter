@@ -52,7 +52,9 @@
 
 17. [df中把数据处理成字符串的方法](http://www.ppvke.com/Blog/archives/39790)  
     `https://www.cnblogs.com/P--K/p/8443995.html`  
-18. pd.crosstab() 行列统计个数  
+18. pd.crosstab() 行列统计个数
+
+19. [实现over partition](https://www.jianshu.com/p/6ef54e943ad0)  
 
 # numpy
 1. [多项式拟合](https://blog.csdn.net/lubin2016/article/details/78823013)  
