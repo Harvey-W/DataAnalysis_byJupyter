@@ -56,6 +56,8 @@
 
 19. [实现over partition](https://www.jianshu.com/p/6ef54e943ad0)  
 
+20. 有时候日期加减的时候， pd.to_timedelta(27,unit='d')和 datetime.timedelta(days=27)的适用范围不一样  
+
 # numpy
 1. [多项式拟合](https://blog.csdn.net/lubin2016/article/details/78823013)  
 
