@@ -58,6 +58,8 @@
 
 20. 有时候日期加减的时候， pd.to_timedelta(27,unit='d')和 datetime.timedelta(days=27)的适用范围不一样  
 
+21. 时间序列的分组：.groupby(['中类编码', '商品编码', pd.Grouper(key='日期', freq='W-MON')]).sum().reset_index()  
+
 # numpy
 1. [多项式拟合](https://blog.csdn.net/lubin2016/article/details/78823013)  
 
