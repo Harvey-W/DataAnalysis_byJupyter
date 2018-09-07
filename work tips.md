@@ -60,6 +60,8 @@
 
 21. 时间序列的分组：.groupby(['中类编码', '商品编码', pd.Grouper(key='日期', freq='W-MON')]).sum().reset_index()  
 
+22. [python处理数据的风骚操作[pandas 之 groupby&agg]](https://segmentfault.com/a/1190000012394176)  
+
 # numpy
 1. [多项式拟合](https://blog.csdn.net/lubin2016/article/details/78823013)  
 
