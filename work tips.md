@@ -62,6 +62,8 @@
 
 22. [python处理数据的风骚操作[pandas 之 groupby&agg]](https://segmentfault.com/a/1190000012394176)  
 
+23. [groupby可迭代对象](https://blog.csdn.net/claroja/article/details/72911882)  
+
 # numpy
 1. [多项式拟合](https://blog.csdn.net/lubin2016/article/details/78823013)  
 
