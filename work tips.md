@@ -64,6 +64,8 @@
 
 23. [groupby可迭代对象](https://blog.csdn.net/claroja/article/details/72911882)  
 
+24. 检验df是否为空: `(~)df.empty`  
+
 # numpy
 1. [多项式拟合](https://blog.csdn.net/lubin2016/article/details/78823013)  
 
