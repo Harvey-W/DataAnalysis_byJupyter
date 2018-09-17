@@ -66,6 +66,8 @@
 
 24. 检验df是否为空: `(~)df.empty`  
 
+25. 百分比: `.apply(lambda x: format(x, '.2%')`  
+
 # numpy
 1. [多项式拟合](https://blog.csdn.net/lubin2016/article/details/78823013)  
 
