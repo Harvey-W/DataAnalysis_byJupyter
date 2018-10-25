@@ -68,6 +68,9 @@
 
 25. 百分比: `.apply(lambda x: format(x, '.2%')`  
 
+56. for i,v in df.iterrows(): 不能改变每行的值，需要用i定位, df.loc[i, column] =   
+
+
 # numpy
 1. [多项式拟合](https://blog.csdn.net/lubin2016/article/details/78823013)  
 
