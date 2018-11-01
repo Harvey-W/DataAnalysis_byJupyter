@@ -68,7 +68,9 @@
 
 25. 百分比: `.apply(lambda x: format(x, '.2%')`  
 
-56. for i,v in df.iterrows(): 不能改变每行的值，需要用i定位, df.loc[i, column] =   
+26. for i,v in df.iterrows(): 不能改变每行的值，需要用i定位, df.loc[i, column] =  
+
+27. 时间戳，时间，字符串互转：dt.strftime('%Y-%m-%d'),time.strftime(tms, '%Y-%m-%d')  
 
 
 # numpy
