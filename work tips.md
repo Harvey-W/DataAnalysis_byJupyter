@@ -78,6 +78,9 @@
 
 2. array扁平化和“逆扁平化"
     `series.flatten() df[:,None]`  
+3. np.where()显示结果的行数？  
+
+4. np.max(), np.min()比df.apply(lambda x: min(x1,x2),axis=1)高的不知哪里去了！  
 
 # matplotlib&seaborn
 1. [mac下中文标签显示](http://skyrover.me/2018/02/13/matplotlib_issue_solution/)
