@@ -72,6 +72,7 @@
 
 27. 时间戳，时间，字符串互转：dt.strftime('%Y-%m-%d'),time.strftime(tms, '%Y-%m-%d')  
 
+28. sort_values --> groupby --> .first()/.last() 分组取最后一名  
 
 # numpy
 1. [多项式拟合](https://blog.csdn.net/lubin2016/article/details/78823013)  
