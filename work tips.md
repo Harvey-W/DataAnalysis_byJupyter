@@ -144,6 +144,10 @@
 
 3. 按天/月/年排序，若原字段只有详细时间，转换为to_char(time, 'YYYY-MM-DD') as d group by d  
 
+4.`count(*)    所有值不全为NULL时，加1操作`  
+ `  count(1)    不管有没有值，只要有这条记录，值就加1`   
+ `  count(col)  col列里面的值为null，值不会加1，这个列里面的值不为NULL，才加1`  
+
 # jupyter
 1. `%run ====用来运行代码脚本`   
     `%store ====命令可以在两个notebook文件之间传递变量`  
