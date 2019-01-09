@@ -148,6 +148,9 @@
  `  count(1)    不管有没有值，只要有这条记录，值就加1`   
  `  count(col)  col列里面的值为null，值不会加1，这个列里面的值不为NULL，才加1`  
 
+5. 按条件count: 
+`sum(case when is_head = 1 then 1 else 0 end)`  
+
 # jupyter
 1. `%run ====用来运行代码脚本`   
     `%store ====命令可以在两个notebook文件之间传递变量`  
