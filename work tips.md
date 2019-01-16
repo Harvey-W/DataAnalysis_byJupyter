@@ -151,6 +151,9 @@
 5. 按条件count: 
 `sum(case when is_head = 1 then 1 else 0 end)`  
 
+6. 求每行占每列的百分比：   
+`select A,B B/sum(B) over(partition by A)`  
+
 # jupyter
 1. `%run ====用来运行代码脚本`   
     `%store ====命令可以在两个notebook文件之间传递变量`  
