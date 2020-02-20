@@ -1,3 +1,5 @@
 # DataAnalysis_byJupyter
-NOW IS BETTER THAN NEVER, Let's rock'n'roll !!!
+- python相关的小工具
+- 电商行业分析
+- 零售行业分析（TBD）
 
