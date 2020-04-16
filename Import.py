@@ -10,7 +10,9 @@ import glob
 #from ipywidgets import interact,interactive,fixed
 #import ipywidgets as widgets
 
+#矢量可伸缩图表
 %matplotlib inline
+%config InlineBackend.figure_format = 'svg'
 mpl.rcParams['font.sans-serif'] = ['SimHei']
 plt.rcParams['axes.unicode_minus']=False
 plt.style.use('ggplot')
@@ -24,7 +26,7 @@ _rebuild()
 %%HTML
 <button onclick="$('.input, .output_stderr, .output_error').toggle();">Toggle Code</button> 
 
-# 防止Mac中文乱码问题
+#防止Mac中文乱码问题
 plt.rcParams['font.sans-serif'] = ['Arial Unicode MS']
 
 #显示所有列
