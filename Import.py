@@ -35,3 +35,7 @@ plt.rcParams['font.sans-serif'] = ['Arial Unicode MS']
 #pd.set_option('display.max_rows', None)
 #设置value的显示长度为100，默认为50
 #pd.set_option('max_colwidth',100)
+
+#无代码导出
+#import IPython.core.display as di;
+#di.display_html('<script>jQuery(function() {if (jQuery("body.notebook_app").length == 0) { jQuery(".input_area").toggle(); jQuery(".prompt").toggle();}});</script>', raw=True)
