@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+                
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Open Jupyter]
+@="在Jupyter Notebook中打开"
+"Icon"="D:\\miniconda3\\Menu\\jupyter.ico"
+                
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Open Jupyter\command]
+@="cmd /K cd %V && jupyter notebook"
+                
+[HKEY_CLASSES_ROOT\Directory\shell\Open Jupyter]
+@="在Jupyter Notebook中打开"
+"Icon"="D:\\miniconda3\\Menu\\jupyter.ico"
+                
+[HKEY_CLASSES_ROOT\Directory\shell\Open Jupyter\command]
+@="cmd /K cd %1 && jupyter notebook"
